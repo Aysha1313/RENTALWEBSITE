@@ -6,8 +6,6 @@ Team Members
 Member 1: Gowri - Model engineering college
 Member 2: Aysha - Model engineering college
 Member 3: Kamala - Model engineering college
-Hosted Project Link
-[mention your project hosted project link here]
 
 Project Description
 Smart Rental is a web platform for easy item rentals within college campuses, helping students save money and resources.
@@ -24,22 +22,10 @@ For Software:
 
 Frontend: HTML, CSS, JavaScript
 using visualstudio
-For Hardware:
 
-[List main components]
-[List specifications]
-[List tools required]
-Implementation
-For Software:
 
-Installation
-[commands]
 
-Run
-[commands]
 
-Project Documentation
-For Software:
 
 Screenshots ![Screenshot 2025-02-02 083219](https://github.com/user-attachments/assets/e04b0f51-af78-4b83-ac44-4812f9ac9822)this is the front page of our website.
 ![Screenshot 2025-02-02 083236](https://github.com/user-attachments/assets/4b9022a7-0464-49ca-bc4e-6f6883b0433e)this is the page which appear when we click get started 
