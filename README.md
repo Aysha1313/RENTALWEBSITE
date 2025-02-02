@@ -34,6 +34,8 @@ t![Screenshot 2025-02-02 083316](https://github.com/user-attachments/assets/7609
 this is the page which appear when we click the sale icon.
 ![Screenshot 2025-02-02 083433](https://github.com/user-attachments/assets/d8df192f-5708-4bad-81de-753bfe0c1d17)this is the page which appear when we click the rent icon.
 
+ VIDEO
+
 
 
 
