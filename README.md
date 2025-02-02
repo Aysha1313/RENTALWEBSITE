@@ -55,7 +55,7 @@ this is the page which appear when we click the sale icon.
 
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[kamala]: All support
+[gowri]: All support
+[aysha]: All support
 Made with ❤️ at TinkerHub
